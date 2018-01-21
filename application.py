@@ -1,3 +1,3 @@
-
+# for fun
 def multiply_by_two(x):
-    return x*2
+    return x * 2
